@@ -1,5 +1,6 @@
-![](https://cdn.nlark.com/yuque/0/2024/png/28334026/1731180759849-79f6c0b5-a903-4021-828b-3d6a69a7b254.png)
-
+<div align="center">
+<img src="logo-little.png" alt="示例图片" width="100" height="80">
+</div>
 demo为鱼皮面试鸭拆解功能，可供快速开发进行使用。
 
 为面试鸭宣传一下 [https://www.mianshiya.com](https://www.mianshiya.com/)
